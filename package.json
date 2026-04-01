@@ -12,5 +12,6 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "module"
+  "type": "module",
+  "module": "index.js"
 }
